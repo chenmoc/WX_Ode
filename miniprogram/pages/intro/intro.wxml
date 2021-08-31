@@ -1,0 +1,39 @@
+<view class="cu-bar bg-white margin-top solid-bottom">
+    <view class="action">
+      <text class="cuIcon-title text-red"></text>上海第一次全国代表大会会址纪念馆
+    </view>
+  </view>
+
+<image src="https://chenmoc.com/imgs/p.jpg" mode="aspectFill" class="img"></image>
+
+  <view class="solids-bottom padding-xs flex align-center">
+    <view class="flex-sub text-left">
+      <view class="padding">地理位置：上海市黄浦区黄陂南路374号</view>
+    </view>
+  </view>
+  <view class="cu-timeline">
+  <view class="cu-time">历史沿革</view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      1921年7月23日，来自各地中国共产党早期组织的代表李达、李汉俊、张国焘、刘仁静、何叔衡、毛泽东、董必武、陈潭秋、王尽美、邓恩铭、陈公博、周佛海，还有包惠僧及共产国际代表马林等秘密汇聚在上海法租界的贝勒路树德里3号（今兴业路76号会址），举行了中国共产党第一次全国代表大会。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      1959年5月26日，中共一大会址被公布为上海市文物保护单位。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      1961年3月4日，被公布为全国重点文物保护单位
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      1984年3月，邓小平为中共一大纪念馆题写了馆名。
+    </view>
+  </view>
+  <view class="padding flex flex-direction">
+  <button bindtap="up" class="cu-btn bg-orange margin-tb-sm lg">再来一次</button>
+</view>
+</view>

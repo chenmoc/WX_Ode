@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/intro/intro",
+    "pages/intro1/intro1",
+    "pages/intro2/intro2",
+    "pages/intro3/intro3",
+    "pages/intro4/intro4",
+    "pages/intro5/intro5",
+    "pages/intro6/intro6",
+    "pages/intro7/intro7",
+    "pages/intro8/intro8"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "edo",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

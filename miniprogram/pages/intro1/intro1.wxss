@@ -1,0 +1,4 @@
+/* miniprogram/pages/intro1/intro1.wxss */
+.img{
+  width: 100%;
+}

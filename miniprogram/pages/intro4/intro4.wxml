@@ -1,0 +1,45 @@
+<view class="cu-bar bg-white margin-top solid-bottom">
+    <view class="action">
+      <text class="cuIcon-title text-red"></text>平津战役纪念馆
+    </view>
+  </view>
+
+<image src="https://chenmoc.com/imgs/p4.jpg" mode="aspectFill" class="img"></image>
+
+  <view class="solids-bottom padding-xs flex align-center">
+    <view class="flex-sub text-left">
+      <view class="padding">地理位置：天津市红桥区平津道8号</view>
+    </view>
+  </view>
+  <view class="cu-timeline">
+  <view class="cu-time">历史沿革</view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      平津战役是解放战争时期，中国人民解放军东北野战军和华北军区部队将国民党军傅作义集团抑留于北平、天津、张家口地区，予以各个歼灭的战略决战性战役。是解放战争具有决定意义的三大战役之一。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      1948年11月29日开始，1949年1月31日结束，共64天。林彪、罗荣桓、聂荣臻、刘亚楼指挥中国人民解放军东北野战军和华北军区部队共100万大军，以北平、天津为中心，以伤亡3.9万人的代价，消灭及改编国民党军3个兵团，13个军50个师共计52.1万人，解放了北平、天津在内的华北大片地区。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      平津战役是中国人民解放战争具有决定意义的三大战役的最后一个战役。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      1994年8月23日，中共中央政治局常务委员会十四届第67次会议决定在天津修建平津战役纪念馆，并责成北京军区牵头，会同北京市、天津市共同完成建馆工作。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      1997年10月19日，中共中央政治局常委、国家副主席胡锦涛， 在天津市领导张立昌、李盛霖、房凤友、罗远鹏等同志陪同下，到馆参观。胡锦涛同志对纪念馆工作表示满意。
+    </view>
+  </view>
+  <view class="padding flex flex-direction">
+  <button bindtap="up" class="cu-btn bg-orange margin-tb-sm lg">再来一次</button>
+</view>
+</view>
+

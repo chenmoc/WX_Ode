@@ -1,0 +1,40 @@
+<view class="cu-bar bg-white margin-top solid-bottom">
+    <view class="action">
+      <text class="cuIcon-title text-red"></text>井冈山革命烈士陵园
+    </view>
+  </view>
+
+<image src="https://chenmoc.com/imgs/p1.jpg" mode="aspectFill" class="img"></image>
+
+  <view class="solids-bottom padding-xs flex align-center">
+    <view class="flex-sub text-left">
+      <view class="padding">地理位置：江西省吉安市井冈山市五井路</view>
+    </view>
+  </view>
+  <view class="cu-timeline">
+  <view class="cu-time">历史沿革</view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      井冈山，中国革命的摇篮。1927年10月，毛泽东率领秋收起义部队走上井冈山，开始工农武装割据斗争。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      井冈山斗争前后历时两年零四个月，牺牲的革命先烈有4.8万余人。在840多天的时间里，平均每天有56个战士献出生命，其中有名有姓被镌刻在纪念碑上的只有15744人。还有3.2万多名烈士的英灵，至今无法查实，永远地镶嵌在了革命烈士陵园的无字碑上。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      在一排排烈士姓名背后，都镌刻着两个大字——青春。秋收起义总指挥卢德铭牺牲时22岁，红十一师师长张子清牺牲时29岁，红四军参谋长王尔琢牺牲时25岁……
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      有的人因为看见，所以相信；有的人因为相信，所以看见。在井冈山上长眠的红军战士，相信中国共产党，相信党的事业和奋斗目标。虽然他们当时并没有看见，但是为了最终看见，让我们看见，让后辈看见，他们义无反顾地献出自己的青春。最终，革命迎来了胜利。
+    </view>
+  </view>
+  <view class="padding flex flex-direction">
+  <button bindtap="up" class="cu-btn bg-orange margin-tb-sm lg">再来一次</button>
+</view>
+</view>
+

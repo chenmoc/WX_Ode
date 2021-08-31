@@ -1,0 +1,4 @@
+/* pages/intro7/intro7.wxss */
+.img{
+  width: 100%;
+}

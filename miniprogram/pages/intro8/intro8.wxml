@@ -1,0 +1,45 @@
+<view class="cu-bar bg-white margin-top solid-bottom">
+    <view class="action">
+      <text class="cuIcon-title text-red"></text>辽沈战役纪念馆
+    </view>
+  </view>
+
+<image src="https://chenmoc.com/imgs/p8.jpg" mode="aspectFill" class="img"></image>
+
+  <view class="solids-bottom padding-xs flex align-center">
+    <view class="flex-sub text-left">
+      <view class="padding">地理位置：辽宁省锦州市凌河区北京路五段一号</view>
+    </view>
+  </view>
+  <view class="cu-timeline">
+  <view class="cu-time">历史沿革</view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      1945年日本战败投降后，东北即成为国共两党两军争夺的焦点；
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      1948年9月12日开始，同年11月2日结束，共历时52天。中国共产党称之为辽沈战役，中国国民党称之为辽西会战，又作”辽沈会战“。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      战役结束后，中国人民解放军首次在兵力数量方面超越国民党军队。解放了东北全境。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      1957年11月2日，举行辽沈战役革命烈士纪念塔揭幕典礼。塔身前面是由朱德总司令亲笔题写的“辽沈战役革命烈士永垂不朽”12个鎏金大字。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      纪念馆基本陈列有战史馆、支前馆、烈士馆、全景画馆和电教馆等。战史、支前和烈士三个馆中展出了大量的图片、照片和历史文物。全景画馆中绘制着攻克锦州的激烈战斗场面，配以音响、灯光和战火硝烟等特技，形象地再现了昔日的激战情景。
+    </view>
+  </view>
+  <view class="padding flex flex-direction">
+  <button bindtap="up" class="cu-btn bg-orange margin-tb-sm lg">再来一次</button>
+</view>
+</view>
+

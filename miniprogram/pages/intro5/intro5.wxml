@@ -1,0 +1,40 @@
+<view class="cu-bar bg-white margin-top solid-bottom">
+    <view class="action">
+      <text class="cuIcon-title text-red"></text>淮海战役纪念馆
+    </view>
+  </view>
+
+<image src="https://chenmoc.com/imgs/p5.jpg" mode="aspectFill" class="img"></image>
+
+  <view class="solids-bottom padding-xs flex align-center">
+    <view class="flex-sub text-left">
+      <view class="padding">地理位置：江苏省徐州市泉山区解放南路2号</view>
+    </view>
+  </view>
+  <view class="cu-timeline">
+  <view class="cu-time">历史沿革</view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      淮海战役，国民党称“徐蚌会战”，是解放战争时期中国人民解放军中原野战军、中国人民解放军华东野战军在以徐州为中心，东起海州（连云港），西至商丘，北起临城（今枣庄市薛城），南达淮河的广大地区，对国民党军队进行的战略性进攻战役。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      淮海战役于1948年11月6日开始，1949年1月10日结束，徐州剿匪总司令部刘峙指挥中华民国国民革命军五个兵团、22个军、56个师及一个绥靖区共55.5万人被消灭及改编，解放军总共伤亡13.4万人。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      淮海战役是三大战役中的第二个战役，也是解放军牺牲最重，歼敌数量最多，政治影响最大、战争样式最复杂的战役。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      淮海战役纪念馆占地7万平方米，建筑面积2.56万平方米，半径25米、高28米的全景画馆位于其中心。馆内陈展面积1.2万平方米，共分序言、战前形势、战役实施、人民支前和缅怀英烈等6部分内容，共展出文物、照片、图表近3000件，复原场景9个，展线1470米。全景画《淮海战役》画布长150米，高20米，以战役3个阶段的主战场为创作背景，用写实的艺术手法，再现了淮海战役的生动场景。
+    </view>
+  </view>
+  <view class="padding flex flex-direction">
+  <button bindtap="up" class="cu-btn bg-orange margin-tb-sm lg">再来一次</button>
+</view>
+</view>
+

@@ -1,0 +1,50 @@
+<view class="cu-bar bg-white margin-top solid-bottom">
+    <view class="action">
+      <text class="cuIcon-title text-red"></text>西柏坡景区
+    </view>
+  </view>
+
+<image src="https://chenmoc.com/imgs/p7.jpg" mode="aspectFill" class="img"></image>
+
+  <view class="solids-bottom padding-xs flex align-center">
+    <view class="flex-sub text-left">
+      <view class="padding">地理位置：石家庄市平山县西柏坡镇西柏坡纪念馆东侧路</view>
+    </view>
+  </view>
+  <view class="cu-timeline">
+  <view class="cu-time">历史沿革</view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      西柏坡曾是中共中央所在地，党中央和毛主席在此指挥了决定解放战争走向的辽沈、淮海、平津三大战役，召开了具有伟大历史意义的七届二中全会和全国土地会议，解放全中国，故有“新中国从这里走来”、“中国命运定于此村”的美誉。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      1949年3月23日中共中央、中央军委和中国人民解放军总部从西柏坡迁入北平。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      西柏坡纪念馆占地面积16440平方米，目前对外开放的主要有毛泽东、朱德、刘少奇、周恩来、任弼时、董必武旧居，军委作战室、中国共产党七届二中全会会址，九月会议会址，中共中央接见苏共中央和上海人民和平代表团代表旧址，防空洞和中央机关小学旧址12处。1982年3月，国务院公布西柏坡中共中央旧址为全国重点文物保护单位。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      1991年，江泽民总书记视察西柏坡时，题词“牢记两个务必，建设有中国特色的社会主义”。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      2002年12月胡锦涛总书记到西柏坡学习考察时，要求西柏坡要在全面建设小康社会的征程中首先交上一份优异的答卷。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      2010年6月24日，时任中共中央政治局常委，国务院副总理李克强在河北调研期间，专程前往西柏坡瞻仰中共中央旧址。
+    </view>
+  </view>
+  <view class="padding flex flex-direction">
+  <button bindtap="up" class="cu-btn bg-orange margin-tb-sm lg">再来一次</button>
+</view>
+</view>
+

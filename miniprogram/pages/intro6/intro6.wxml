@@ -1,0 +1,45 @@
+<view class="cu-bar bg-white margin-top solid-bottom">
+    <view class="action">
+      <text class="cuIcon-title text-red"></text>延安革命纪念馆
+    </view>
+  </view>
+
+<image src="https://chenmoc.com/imgs/p6.jpg" mode="aspectFill" class="img"></image>
+
+  <view class="solids-bottom padding-xs flex align-center">
+    <view class="flex-sub text-left">
+      <view class="padding">地理位置：陕西省延安市宝塔区延河东岸</view>
+    </view>
+  </view>
+  <view class="cu-timeline">
+  <view class="cu-time">历史沿革</view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      延安是中国革命圣地。毛泽东等老一辈无产阶级革命家在延安和陕北生活战斗了十三个春秋，领导中国人民取得了抗日战争和解放战争的伟大胜利，形成了伟大的毛泽东思想，培育了光照千秋的延安精神。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      1950年7月，组建延安革命纪念馆，它是新中国成立后建成的最早的革命纪念馆之一。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      1955年，迁至城内凤凰山麓革命旧址院内，改名为“延安革命纪念馆”。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      1971年，郭沫若来参观时题写馆名。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      延安革命纪念馆陈列厅，由6个面积相等的展厅组成，展厅高大宽敞，采光性能良好。陈列厅采用声光电等现代化表现手法，以700余幅照片及近千件革命文物及雕塑、油画、图表、场景复原等形象、生动地再现了党中央及老一辈无产阶段革命家在延安领导中国革命的艰苦岁月。
+    </view>
+  </view>
+  <view class="padding flex flex-direction">
+  <button bindtap="up" class="cu-btn bg-orange margin-tb-sm lg">再来一次</button>
+</view>
+</view>
+

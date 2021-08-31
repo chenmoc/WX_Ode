@@ -1,0 +1,45 @@
+<view class="cu-bar bg-white margin-top solid-bottom">
+    <view class="action">
+      <text class="cuIcon-title text-red"></text>南昌八一起义纪念馆
+    </view>
+  </view>
+
+<image src="https://chenmoc.com/imgs/p2.jpg" mode="aspectFill" class="img"></image>
+
+  <view class="solids-bottom padding-xs flex align-center">
+    <view class="flex-sub text-left">
+      <view class="padding">地理位置：江西省南昌市西湖区中山路380号</view>
+    </view>
+  </view>
+  <view class="cu-timeline">
+  <view class="cu-time">历史沿革</view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      南昌八一起义纪念馆的前身为“江西大旅社”。1927年7月下旬，参加起义的部队包租下这幢旅社，在“喜庆厅”召开会议，成立了以周恩来为书记的中共前敌委员会；8月1日中国共产党发动了南昌起义，后又多次在此举行会议，成为领导起义的指挥中心。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      1956年，南昌八一起义纪念馆成立。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      1959年，该馆正式对外开放。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      2008年1月，该馆向全社会免费开放，并提出“免费不免票，服务不打折”的理念。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      南昌八一起义纪念馆序厅在保留了原有“第一枪”、“军旗”等核心要素外，首次采用了全景大型雕塑，在全国纪念馆中尚属首创；展览设置了《攻打敌军指挥部》等大型多媒体场景、360度全息柜、多通道环幕投影技术，增强了展览的表现力、感染力和冲击力；在展厅内搭建了长达400多延米的历史时间长廊，使用大量的背景图像烘托南昌起义革命历史事件与八一背后的故事。
+    </view>
+  </view>
+  <view class="padding flex flex-direction">
+  <button bindtap="up" class="cu-btn bg-orange margin-tb-sm lg">再来一次</button>
+</view>
+</view>
+

@@ -1,0 +1,60 @@
+<view class="cu-bar bg-white margin-top solid-bottom">
+    <view class="action">
+      <text class="cuIcon-title text-red"></text>遵义市遵义会议会址
+    </view>
+  </view>
+
+<image src="https://chenmoc.com/imgs/p3.jpg" mode="aspectFill" class="img"></image>
+
+  <view class="solids-bottom padding-xs flex align-center">
+    <view class="flex-sub text-left">
+      <view class="padding">地理位置：贵州省遵义市老城子尹路96号</view>
+    </view>
+  </view>
+  <view class="cu-timeline">
+  <view class="cu-time">历史沿革</view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      遵义会议会址原为黔军25军第二师师长柏辉章的私人官邸，修建于30年代初。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      1935年1月上旬，中国工农红军第一方面军长征到达遵义后，中央革命军事委员会总司令部与一局（负责作点）即驻在这幢楼房里。中共中央15日至17日中共中央在此召开政治局扩大会议。会议通过了关于反对敌人五次“围剿”的总结决议，史称“遵义会议”
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      1954年1月，遵义会议会址开始复原陈列。8月，中央办公厅主任杨尚昆电告中共贵州省委“遵义会议是在黔军阀柏辉章的房子里召开的。”至此，遵义会议会址才确定。接着，国家文化部决定成立“遵义会议纪念馆筹备处”，开始对会址原状进行全面勘察，同时大规模地、有计划地搜集红军长征在贵州活动的文物资料。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      1958年11月3日，邓小平同志来到遵义会议会址。当走过二楼东过道小客厅时， 邓小平同志环视着厅内的长桌、椅子、挂钟、壁柜和彩色玻璃窗，对陪同的同志说：“会议就是在这里开的。”并指着里侧的角落说：“我就坐在那里。”
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      1964年，毛泽东主席亲笔为纪念馆题写“遵义会议会址” 。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      1991年，时任中共中央总书记江泽民视察遵义会议会址。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      2012年，时任中共中央总书记胡锦涛视察遵义会议会址。
+    </view>
+  </view>
+  <view class="cu-item text-blue">
+    <view class="content">
+      2015年，中共中央总书记习近平视察遵义会议会址和遵义会议纪念馆。
+    </view>
+  </view>
+  <view class="padding flex flex-direction">
+  <button bindtap="up" class="cu-btn bg-orange margin-tb-sm lg">再来一次</button>
+</view>
+</view>
+
